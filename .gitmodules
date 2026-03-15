@@ -4,3 +4,6 @@
 [submodule "Thesis"]
 	path = Thesis
 	url = https://github.com/Nomio16/Thesis.git
+[submodule "NLP-intelligence"]
+	path = NLP-intelligence
+	url = https://github.com/Nomio16/NLP-intelligence.git
