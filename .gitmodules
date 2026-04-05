@@ -1,6 +1,3 @@
-[submodule "preprocessing"]
-	path = preprocessing
-	url = https://github.com/Nomio16/preprocessing.git
 [submodule "Thesis"]
 	path = Thesis
 	url = https://github.com/Nomio16/Thesis.git
